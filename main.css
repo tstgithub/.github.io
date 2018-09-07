@@ -1,0 +1,11 @@
+H1 {
+  color: #000080;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+}
+P {
+  padding-left: 20px;
+}
+p.main {text-align:justify;padding-left: 120px;padding-right: 120px;}
+p.logo {text-align:center;}
